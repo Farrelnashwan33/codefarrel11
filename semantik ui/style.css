@@ -1,0 +1,67 @@
+body {
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.ui.menu {
+    margin-top: 0;
+}
+
+.ui.vertical.masthead.segment {
+    min-height: 700px;
+    padding: 1em 0em;
+    background-color: #f9f9f9;
+}
+
+.ui.text.container h1.ui.header {
+    font-size: 4em;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 3em;
+}
+
+.ui.text.container h2 {
+    font-size: 1.7em;
+    font-weight: normal;
+}
+
+.ui.vertical.stripe {
+    padding: 8em 0em;
+}
+
+.ui.vertical.stripe h3.ui.header {
+    font-size: 2.5em;
+}
+
+.ui.vertical.stripe p {
+    font-size: 1.33em;
+}
+
+.ui.vertical.stripe .button + h3.ui.header {
+    margin-top: 3em;
+}
+
+.ui.vertical.stripe .floated.image {
+    clear: both;
+}
+
+.ui.vertical.stripe .ui.divider {
+    margin: 3em 0em;
+}
+
+.ui.vertical.stripe .quote {
+    font-style: italic;
+}
+
+.ui.vertical.stripe .code {
+    margin: 2em 0em;
+}
+
+.ui.footer.segment {
+    padding: 5em 0em;
+    background-color: #1b1c1d;
+    color: white;
+}
+
+.ui.footer.segment .ui.container .ui.grid {
+    margin-top: 2em;
+}
